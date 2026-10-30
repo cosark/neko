@@ -154,6 +154,11 @@ It also offers [Zero-knowledge installation (with HTTPS)](https://github.com/m1k
 
 ## Documentation
 
+### One-Click Deploy
+
+<a href="https://repocloud.io/details/Neko/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/neko"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
+
 Full documentation is available at [neko.m1k1o.net](https://neko.m1k1o.net/). Key sections include:
 
 - [Migration from V2](https://neko.m1k1o.net/docs/v3/migration-from-v2)
